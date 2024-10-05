@@ -1,2 +1,5 @@
 git clone https://github.com/DEEPANSHUIT/project-emortional-state-predict.git
 cd project-emortional-state-predict
+git add .
+git commit -m "Initial commit"
+git push origin main
