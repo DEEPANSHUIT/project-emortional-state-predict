@@ -1,5 +1,20 @@
-git clone https://github.com/DEEPANSHUIT/project-emortional-state-predict.git
-cd project-emortional-state-predict
-git add .
-git commit -m "Initial commit"
-git push origin main
+Features:	PAGE6
+The Project Takes the following inputs from the User:-
+1.	Age: The age of the user.
+2.	Gender: The gender of the user (e.g., Male, Female, Non-binary).
+3.	Platform: The social media platform(s) used by the user (e.g., Facebook, Twitter, Instagram).
+4.	Daily_Usage_Time (minutes): The total time spent on social media per day in minutes.
+5.	Posts_Per_Day: The number of posts made by the user per day.
+6.	Likes_Received_Per_Day: The number of likes received by the user per day.
+7.	Comments_Received_Per_Day: The number of comments received by the user per day.
+8.	Messages_Sent_Per_Day: The number of messages sent by the user per day.
+Target Output:
+The project generates one of the output from the outputs given below
+•	Emotional State: The predicted emotional state of the user, categorized into one of the following emotions:
+o	Anger
+o	Anxiety
+o	Boredom
+o	Happiness
+o	Neutral
+o	Sadness
+
